@@ -62,7 +62,20 @@ This data collection is handled solely by the advertising SDKs and follows their
 
 ---
 
-## 5. Children’s Privacy
+## 5. In-App Purchases
+
+The App offers optional in-app purchases processed through **Google Play Billing**.
+
+All payment transactions are handled securely by Google.  
+The developer does **not collect, store, or have access to any payment or billing information**.
+
+Google may process certain data related to purchases in accordance with its own privacy policies.
+
+Google Play Privacy Policy: https://policies.google.com/privacy
+
+---
+
+## 6. Children’s Privacy
 
 **Aftermath Mobile** is not specifically designed for children under the age of 13.
 
@@ -71,7 +84,7 @@ If you believe that a child has provided personal data through a third-party ser
 
 ---
 
-## 6. Data Security
+## 7. Data Security
 
 Because the App does not collect or transmit personal data, there is no external storage of user information that could be compromised by the developer.
 
@@ -79,21 +92,21 @@ Local game data remains entirely on the user’s device.
 
 ---
 
-## 7. Your Rights
+## 8. Your Rights
 
 Depending on your location, you may have rights under applicable data protection laws (such as GDPR or CCPA).  
 Since the App does not collect personal data directly, requests regarding personal data should be directed to the relevant third-party service providers listed above.
 
 ---
 
-## 8. Changes to This Privacy Policy
+## 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.  
 Any changes will be reflected on this page with an updated revision date.
 
 ---
 
-## 9. Contact Information
+## 10. Contact Information
 
 If you have any questions or concerns about this Privacy Policy, you may contact us at:
 
